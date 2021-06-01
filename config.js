@@ -28,6 +28,7 @@ var config = {
         "心爱的木野子": "./imgs/xiaokeai.png",
        "今天是你的生日": "./imgs/birthday.png",
        "菇菇夙夜奋战四小时的样子": "./imgs/huarongdao.png",
+       "但是喵起来都知道谁是GACHI": "./imgs/zhijia.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
